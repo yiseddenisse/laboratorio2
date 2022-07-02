@@ -1,0 +1,37 @@
+.titulo_grande {
+	color:rgb(8, 3, 98);
+	font-family:fantasy;
+	font-size:30pt;
+	font-weight:bold;
+    text-align:center;
+	text-shadow:2px 2px rgb(121, 125, 235);
+	width:100%;
+}
+
+.direccion{
+    text-align:center;
+    background-color:rgb(213, 206, 206) ;
+}
+
+body {
+    width: 100%;
+    display: grid;
+    background-color:cornsilk ;
+}
+
+h3 {
+	color:rgb(5, 2, 68);
+	font-family:fantasy;
+	font-size:15pt;
+}
+
+img {
+    border: 1px solid rgb(9, 1, 42);
+    border-width: 4px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 30%;
+}
+a:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
